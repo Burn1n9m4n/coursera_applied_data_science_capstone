@@ -5,3 +5,6 @@
 .venv/
 *.json
 *.zip
+*.yml
+*.yaml
+*.cfg

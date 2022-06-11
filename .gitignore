@@ -1,6 +1,5 @@
 .ipynb_checkpoints/
 *.txt
-*.pdf
 *.csv
 .venv/
 *.json
